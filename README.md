@@ -1,0 +1,2 @@
+# NotificationCrash
+本项目旨在解决项目中忘记remove通知，导致崩溃的问题
